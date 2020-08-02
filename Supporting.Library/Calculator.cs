@@ -4,6 +4,7 @@ namespace Supporting.Library
 {
     public class Calculator : ICalculator
     {
+        // CALC
         public Calculator()
         {
 
